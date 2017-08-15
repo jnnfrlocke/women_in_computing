@@ -80,49 +80,28 @@ h3 {
     text-align: center;
 }
 
+
+/* Slide in animation */
+
 .name {
     animation-duration: 2s;
     animation-name: slidein;
+    /* border-radius: 50px; */
+}
+
+@keyframes slidein {
+    from {
+        margin-left: 50%;
+        /* width: 300%; */
+    }
+    to {
+        margin-left: 0%;
+        /* width: 100%; */
+    }
 }
 
 
-/* trying to create hover text on img */
-
-
-/* span.text-content {
-    background: rgba(0, 0, 0, 0.5);
-    color: white;
-    cursor: pointer;
-}
-
-span.text-content {
-    background: rgba(0, 0, 0, 0.5);
-    color: white;
-    cursor: pointer;
-    display: table;
-    height: 150px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 150px;
-    opacity: 0;
-}
-
-span.text-content span {
-    display: table-cell;
-    text-align: center;
-    vertical-align: middle;
-}
-
-.name:hover span.text-content {
-    opacity: 1;
-} */
-
-
-/* end */
-
-
-/* attempt 2 */
+/* Hover Names*/
 
 .img-hover .name_text {
     position: relative;
@@ -140,20 +119,6 @@ span.text-content span {
     background-color: rgba(0, 0, 0, 0.5)
 }
 
-
-/* end */
-
-@keyframes slidein {
-    from {
-        margin-left: 50%;
-        /* width: 300%; */
-    }
-    to {
-        margin-left: 0%;
-        /* width: 100%; */
-    }
-}
-
 #description {
     max-width: 390px;
     height: auto;
@@ -167,7 +132,7 @@ img {
     height: auto;
     display: inline-block;
     margin: auto;
-    /* float: right; */
+    border-radius: 50px;
     padding: 0 10px 0 10px;
 }
 
