@@ -1,0 +1,15 @@
+<aside class="col-sm-2">
+        <h4>Want to find out more?</h4>
+        <ul>
+            <li><a href=" http://findingada.com/ ">Ada Lovelace Day</a> is "an international celebration day of the achievements of women in science, technology, engineering and maths (STEM). " Learn more about Lovelace and get celebrate with the world on
+                October 10, 2017.</li>
+            <br>
+            <li>
+                The <a href="https://ghc.anitaborg.org/ ">Grace Hopper Celebration of Women in Computing</a> is "the world’s largest technical conference for women in computing. " Check out what they're doing for the October 4-6 2017 event.
+            </li>
+            <br>
+            <li>
+                Information about Hedy Lamarr's contribution to technology is a bit tough to find, but <a href="https://iq.intel.com/how-hedy-lamarr-invented-early-wireless-technology/ ">Intel published an interesting article</a> about just this.
+            </li>
+        </ul>
+    </aside>
