@@ -18,7 +18,7 @@ nav {
     left: 10px;
 }
 
-nav ul li {
+header ul li {
     list-style-type: none;
     margin: 0;
     padding: 0 10px 0 10px;
@@ -26,7 +26,7 @@ nav ul li {
     background-color: #B3C7D1;
 }
 
-nav a {
+header a {
     color: #3A3E36;
 }
 
