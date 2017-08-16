@@ -40,6 +40,8 @@ h1 {
     text-align: center;
     font-variant: small-caps;
     font-family: 'Quattrocento Sans', sans-serif;
+    background-color: #B3C7D1;
+    border: 5px double #28374C;
 }
 
 h1 a {
@@ -55,6 +57,7 @@ h2 {
 }
 
 #main_content_block {
+    border: 2px solid #6D6466;
     max-width: 800px;
     height: auto;
     margin: auto;
@@ -139,6 +142,14 @@ aside ul li {
 
 
 /* End */
+
+.shadow {
+    max-width: 200px;
+    height: auto;
+    box-shadow: 0 6px 20px 0 #6D6466;
+    margin: auto;
+    border-radius: 15px;
+}
 
 #description {
     max-width: 390px;
