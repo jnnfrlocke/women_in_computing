@@ -167,7 +167,7 @@ footer p {
 
 .arrow {
     position: fixed;
-    bottom: 0;
+    bottom: 1.2em;
     right: 5px;
     /* text-align: right; */
 }
