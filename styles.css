@@ -144,13 +144,15 @@ aside ul li {
     vertical-align: text-top;
     float: left;
     padding: 0 10px 0 10px;
+    /* background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 5%; */
 }
 
 img {
     max-width: 390px;
     height: auto;
     display: inline-block;
-    margin: auto;
+    margin: 5px auto 5px auto;
     border-radius: 50px;
     padding: 0 10px 0 10px;
 }
