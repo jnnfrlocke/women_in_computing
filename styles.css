@@ -164,3 +164,9 @@ footer p {
     text-align: right;
     margin-top: 20px;
 }
+
+.arrow {
+    position: fixed;
+    bottom: 1.2em;
+    right: 5px;
+}
