@@ -169,5 +169,5 @@ footer p {
     position: fixed;
     bottom: 1.2em;
     right: 5px;
-    text-align: right;
+    /* text-align: right; */
 }
