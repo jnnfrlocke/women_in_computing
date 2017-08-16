@@ -30,6 +30,11 @@ header a {
     color: #3A3E36;
 }
 
+button {
+    background: none;
+    border: none;
+}
+
 h1 {
     font-size: 36px;
     text-align: center;
