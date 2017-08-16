@@ -166,7 +166,7 @@ footer p {
 }
 
 .arrow {
-    position: fixed;
+    position: absolute;
     bottom: 1.2em;
     right: 5px;
 }
