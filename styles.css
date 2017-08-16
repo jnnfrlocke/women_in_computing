@@ -141,19 +141,14 @@ aside ul li {
 /* End */
 
 #description {
-    max-width: 350px;
-    /* height: auto; */
-    /* vertical-align: text-top; */
+    max-width: 390px;
     padding: 0 10px 0 10px;
     text-align: justify;
-    /* margin: auto; */
     display: inline-block;
-    /* background-color: rgba(0, 0, 0, 0.4);
-    border-radius: 5%; */
 }
 
 img {
-    max-width: 350px;
+    max-width: 390px;
     height: auto;
     display: inline-block;
     margin: 5px auto 5px auto;
