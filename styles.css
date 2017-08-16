@@ -58,13 +58,15 @@ h2 {
     max-width: 800px;
     height: auto;
     margin: auto;
+    text-align: center;
 }
 
 p {
     color: #3A3E36;
     font-size: 20px;
     font-family: 'Quattrocento', serif;
-    margin: 0 5px 0 10px;
+    margin: auto;
+    text-align: center;
 }
 
 .container img {
@@ -139,22 +141,25 @@ aside ul li {
 /* End */
 
 #description {
-    max-width: 390px;
-    height: auto;
-    vertical-align: text-top;
-    float: left;
+    max-width: 350px;
+    /* height: auto; */
+    /* vertical-align: text-top; */
     padding: 0 10px 0 10px;
+    text-align: justify;
+    /* margin: auto; */
+    display: inline-block;
     /* background-color: rgba(0, 0, 0, 0.4);
     border-radius: 5%; */
 }
 
 img {
-    max-width: 390px;
+    max-width: 350px;
     height: auto;
     display: inline-block;
     margin: 5px auto 5px auto;
     border-radius: 50px;
     padding: 0 10px 0 10px;
+    /* vertical-align: text-top; */
 }
 
 footer p {
