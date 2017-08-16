@@ -13,3 +13,12 @@
             </li>
         </ul>
     </aside>
+
+aside ul {
+    margin: 0;
+    padding: 0;
+}
+
+aside ul li {
+    list-style-type: none;
+}

@@ -90,14 +90,12 @@ h4 {
     padding-top: 0;
 }
 
-aside ul {
-    margin: 0;
-    padding: 0;
-}
 
-aside ul li {
-    list-style-type: none;
-}
+/* 
+.front_txt {
+    max-width: 800px;
+    align-content: center;
+} */
 
 
 /* Slide in animation */
