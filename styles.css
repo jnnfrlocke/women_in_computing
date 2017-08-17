@@ -100,7 +100,35 @@ h4 {
 
 /* Slide in animation */
 
-.name {
+.ada {
+    animation-duration: 2s;
+    animation-name: ada_slide;
+}
+
+@keyframes ada_slide {
+    from {
+        margin-left: -50%;
+    }
+    to {
+        margin-left: 0%;
+    }
+}
+
+.grace {
+    animation-duration: 2s;
+    animation-name: grace_fade;
+}
+
+@keyframes grace_fade {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.hedy {
     animation-duration: 2s;
     animation-name: slidein;
 }
