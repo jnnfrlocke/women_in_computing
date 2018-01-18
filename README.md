@@ -4,7 +4,7 @@ This is the first project for the Manganese class at devCodeCamp.
 
 ## Getting Started
 
-All you need to do is type the URL in your web browser.
+All you need to do is type the URL (https://jnnfrlocke.github.io/women_in_computing/) in your web browser.
 
 ### Prerequisites
 
