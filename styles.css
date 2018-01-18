@@ -91,13 +91,6 @@ h4 {
 }
 
 
-/* 
-.front_txt {
-    max-width: 800px;
-    align-content: center;
-} */
-
-
 /* Slide in animation */
 
 .ada {
@@ -153,16 +146,18 @@ h4 {
     top: -100px;
     left: 0px;
     visibility: hidden;
+    font-size: 30px;
 }
 
 .img-hover:hover .name_text {
     visibility: visible;
+    display: inline;
     color: #FFFFF2;
     font-weight: bold;
-    font-size: 36px;
+    font-size: 30px;
     font-variant: small-caps;
     background-color: rgba(0, 0, 0, 0.5);
-    margin: 10px;
+    margin: 0 10px 0 10px;
     border-radius: 25px;
 }
 
